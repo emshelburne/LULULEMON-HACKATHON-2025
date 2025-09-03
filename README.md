@@ -10,6 +10,7 @@ Our focus:
 ---
 
 ## Tasks
+- [ ] Complete team form
 - [ ] Extract product data
 - [ ] Scrape subreddit data
 - [ ] UX research with lululemon customers
